@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GoodsManagerWinForms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ffd4eeb96424bdd0c988060a89685f74632cc91")]
 [assembly: System.Reflection.AssemblyProductAttribute("GoodsManagerWinForms")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GoodsManagerWinForms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
